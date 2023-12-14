@@ -4,9 +4,4 @@ In this repository, you will find the books of abstracts of the SBQT 2021 and SB
 
 Best wishes,
 
-Itamar Borges Jr.
-
-Theoretical Chemistry Group
-Military Institute of Engineering
-
-Rio de Janeiro, Brazil
+Itamar Borges Jr.<br>Theoretical Chemistry Group<br>Military Institute of Engineering<br>Rio de Janeiro, Brazil
