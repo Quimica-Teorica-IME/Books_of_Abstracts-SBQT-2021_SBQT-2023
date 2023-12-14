@@ -7,7 +7,6 @@ Best wishes,
 Itamar Borges Jr.
 
 Theoretical Chemistry Group
-
 Military Institute of Engineering
 
 Rio de Janeiro, Brazil
